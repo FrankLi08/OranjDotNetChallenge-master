@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OranjDotNetChallenge-master", "OranjDotNetChallenge-master\OranjDotNetChallenge-master.csproj", "{2C6D8F0D-367D-4066-843C-C216206A1E78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OranjDotNetChallenge-master.Tests", "OranjDotNetChallenge-master.Tests\OranjDotNetChallenge-master.Tests.csproj", "{CCB9775D-DF1C-448F-BD3E-581ED465CBA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C6D8F0D-367D-4066-843C-C216206A1E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C6D8F0D-367D-4066-843C-C216206A1E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C6D8F0D-367D-4066-843C-C216206A1E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C6D8F0D-367D-4066-843C-C216206A1E78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCB9775D-DF1C-448F-BD3E-581ED465CBA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCB9775D-DF1C-448F-BD3E-581ED465CBA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCB9775D-DF1C-448F-BD3E-581ED465CBA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCB9775D-DF1C-448F-BD3E-581ED465CBA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
